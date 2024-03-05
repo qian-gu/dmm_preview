@@ -26,6 +26,8 @@ Generate DMM preview link according to serial numbers.
 | JUQ-xxx   | juq-372  |
 | MEYD-xxx  | meyd-863 |
 | MIAA-xxx  | miaa-915 |
+| MKMP-xxx  | mkmp-532 |
 | ROE-xxx   | roe-175  |
-| WAAA-xxx  | waaa-323 |
 | VEC-xxx   | vec-432  |
+| WAAA-xxx  | waaa-323 |
+| YMDD-xxx  | ymdd-341 |

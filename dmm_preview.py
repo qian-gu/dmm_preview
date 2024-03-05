@@ -14,10 +14,12 @@ sn_dicts = {
         'jufe' : 2,
         'juq'  : 2,
         'meyd' : 2,
-        'miaa' : 5,
+        'miaa' : 2,
+        'mkmp' : 0,
         'roe'  : 2,
-        'waaa' : 2,
         'vec'  : 0,
+        'waaa' : 2,
+        'ymdd' : 0,
         }
 
 def parse(sn):
