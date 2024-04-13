@@ -13,6 +13,7 @@ sn_dicts = {
         'gvh'  : 0,
         'jufe' : 2,
         'juq'  : 2,
+        'katu' : 2,
         'meyd' : 2,
         'miaa' : 2,
         'mkmp' : 0,

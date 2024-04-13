@@ -24,6 +24,7 @@ Generate DMM preview link according to serial numbers.
 | GVH-xxx   | gvh-537  |
 | JUFE-xxx  | jufe-440 |
 | JUQ-xxx   | juq-372  |
+| KATU-xxx  | katu-115 |
 | MEYD-xxx  | meyd-863 |
 | MIAA-xxx  | miaa-915 |
 | MKMP-xxx  | mkmp-532 |
